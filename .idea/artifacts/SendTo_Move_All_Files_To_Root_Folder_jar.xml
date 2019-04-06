@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="SendTo Move All Files To Root Folder:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SendTo_Move_All_Files_To_Root_Folder_jar</output-path>
+    <root id="root">
+      <element id="archive" name="SendTo Move All Files To Root Folder.jar">
+        <element id="module-output" name="SendTo Move All Files To Root Folder" />
+      </element>
+    </root>
+  </artifact>
+</component>

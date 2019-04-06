@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.vxf.tool.Windows.SendTo.app.move_all_files_to_root_fol
+ der.Main
+
